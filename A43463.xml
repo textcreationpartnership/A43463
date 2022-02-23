@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the assizes held for the county of Surrey at Kingston upon Thames, March 30, 1699 by Henry Hesketh ...</title>
+            <author>Hesketh, Henry, 1637?-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43463</idno>
+            <idno type="STC">Wing H1621</idno>
+            <idno type="STC">ESTC R5317</idno>
+            <idno type="EEBO-CITATION">12795389</idno>
+            <idno type="OCLC">ocm 12795389</idno>
+            <idno type="VID">93976</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93976)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 983:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the assizes held for the county of Surrey at Kingston upon Thames, March 30, 1699 by Henry Hesketh ...</title>
+                  <author>Hesketh, Henry, 1637?-1710.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law (Theology) --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93976:1"/>
+            <pb facs="tcp:93976:1"/>
+            <p>A SERMON Preach'd at the ASSIZES Held for the <hi>County of Surrey,</hi> AT <hi>Kingſton</hi> upon <hi>Thames, March</hi> 30. 1699.</p>
+            <p>By <hi>HENRY HESKETH,</hi> Rector of <hi>Charlewood,</hi> and Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhop's Head</hi> in St. <hi>Paul</hi>'s Church-yard. 1699.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:93976:2"/>
+            <pb facs="tcp:93976:2"/>
+            <head>To the Right Honourable Sir <hi>JOHN HOLT,</hi> Kt. Lord Chief Juſtice of <hi>England,</hi> and One of His Majeſty's moſt Ho<g ref="char:EOLhyphen"/>nourable Privy-Council.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>IT is by Your Lordſhip's Command (for ſuch any ſignification of Your Deſire ſhall always be to me) that this Diſcourſe is made thus Publick; and the Kindneſs that you have ſhewed to the Au<g ref="char:EOLhyphen"/>thor, makes it Duty in him to lay it with all Hu<g ref="char:EOLhyphen"/>mility and Thankfulneſs at your Feet.</p>
+            <p>I did not think that there was any thing in it, to recommend it to ſuch a kind Acceptance, unleſs Ho<g ref="char:EOLhyphen"/>neſty and Plain-dealing come in Reputation again.</p>
+            <p>But when I ſaw Your Lordſhip's Thoughts ſe<g ref="char:EOLunhyphen"/>conded by the Worthy Gentlemen upon the Bench, and Grand Jury too, I confeſs I was affected, not ſo much with the favour ſhew'd to my ſelf (God knows)
+<pb facs="tcp:93976:3"/> as with the joyful hope, that the true Spirit and Temper of Religion breathed in thoſe Perſons, who by the Influence they have upon, as well as Intereſt in their Country, may happily propagate it to others below them.</p>
+            <p>May God Almighty verifie the Preſage, and in<g ref="char:EOLhyphen"/>ſpire them with Zeal in this Noble Deſign. May that Heavenly Dew, which now I begin to hope is fallen upon the top of <hi>Hermon,</hi> refreſh not only the immediate Declenſions, but at laſt Water the very <hi>Fields</hi> of <hi>Zion.</hi> And may Your Lordſhip, and all thoſe Worthy Perſons, rejoice in thoſe. Bleſ<g ref="char:EOLhyphen"/>ſings which God hath promiſed to give there to all good Men now, and in thoſe greater Portions of Bliſs that he hath provided for ſuch hereafter. This is, and ſhall be the daily Prayer of,</p>
+            <closer>
+               <salute>My LORD,</salute>
+               <signed>Your Lordſhip's Moſt humble and obedient Servant HENRY HESKETH.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:93976:3"/>
+            <epigraph>
+               <bibl>1 TIM. i. 9.</bibl>
+               <q>Knowing this, that the Law is not made for a Righteous Man, but for the Lawleſs and Diſobedient, for the <g ref="char:V">Ʋ</g>ngodly and for Sinners, for <g ref="char:V">Ʋ</g>nholy and Prophane, <hi>&amp;c.</hi>
+               </q>
+            </epigraph>
+            <p>THE Connexion of theſe Words is not ſo very plain, but that we may pertinently enough ſtay to clear it; and the rather be<g ref="char:EOLhyphen"/>cauſe doing that, may let us eaſilier into the meaning of them.</p>
+            <p>The Apoſtle had in the precedent Verſes reflected with ſome ſmartneſs upon a company of pretended Apoſtles and falſe Teachers, that had crept into the Conventions of Chriſtians, who pretending to a more perfect underſtanding of the Law than other Men, boaſted themſelves to be the only true Teachers of it, and ſeeming to penetrate deeper into the more ab<g ref="char:EOLhyphen"/>ſtruſe ſence thereof, they took occaſion to teach the belief of ſome ſtrange myſtical <hi>Genealogies,</hi> and to amuſe Men's Heads with needleſs though curious Spe<g ref="char:EOLhyphen"/>culations, and Queſtions of no uſe, either to Faith or Manners.</p>
+            <pb n="2" facs="tcp:93976:4"/>
+            <p>It is very probable, the Apoſtle meant that primi<g ref="char:EOLhyphen"/>tive Sect of the <hi>Gnoſticks,</hi> ſo called from their pre<g ref="char:EOLhyphen"/>tending to a deeper and more exact Knowledge of the Myſteries of Chriſtian Religion than others; and his ſpeaking of their buſying themſelves about <hi>Genealogies,</hi> &amp;c. makes it very clear, that he meant that Peſtilent Sect, which made a great noiſe with theſe; a Specimen of which the Learned <hi>Grotius</hi> gives us in his Notes upon this place.</p>
+            <p>Having reflected upon theſe high Law Preachers, with a deſign to warn <hi>Timothy</hi> and others to beware of them, leſt what he had ſaid might be miſinter<g ref="char:EOLhyphen"/>preted; as if he meant to diſparage or undervalue the Law, he tells us, <hi>ver.</hi> 8. that <hi>the Law is good, if it be uſed lawfully, i. e.</hi> to that end and purpoſe for which it was made; which was not to imploy Men in Ge<g ref="char:EOLhyphen"/>nealogies, and vain Janglings, but to excite them to the doing of that good which it commanded, as well as to reſtrain them from the Evil it forbid. And when Men uſe it themſelves, and teach others to uſe it to theſe Ends, they uſe it as they ſhould; and when they preach it up to this End, they do laudably and well.</p>
+            <p>But it was not ſo very proper and pertinent to make ſuch a noiſe with preaching the Law to Chriſtians, who if they anſwer'd their Character were good Men, for whom the Law was not intended; for we ought to know this, <hi>that the Law was not made for a Righ<g ref="char:EOLhyphen"/>teous Man, but for the Lawleſs and Diſobedient, for the Ungodly and for Sinners, for Unholy and Profane,</hi> &amp;c.</p>
+            <p>In ſpeaking to which Words, I ſhall crave your Patience only while I do theſe two general things.</p>
+            <p n="1">
+               <pb n="3" facs="tcp:93976:4"/>I. Endeavour to give the true ſenſe and meaning of them.</p>
+            <p n="2">II. And then endeavour to make that ſenſe as uſe<g ref="char:EOLhyphen"/>ful to us as I can; by drawing ſome ſuch Inferences from it, as may be pertinent to this Meeting, and the end of it.</p>
+            <p n="1">I. I begin with the firſt, in which it will be need<g ref="char:EOLhyphen"/>ful to ſhew,
+<list>
+                  <item>1. In what ſenſe, and upon what reaſon it is here ſaid, that the <hi>Law is not made for a righteous Man.</hi>
+                  </item>
+                  <item>2. In what ſenſe, and upon what reaſon, it is ſaid to be <hi>made for the Lawleſs and Diſobedient, for the Ungodly and for Sinners</hi> in general; and eſpecially for ſuch profane and wicked Perſons as he afterwards par<g ref="char:EOLhyphen"/>ticularly inſtanceth in.</item>
+               </list>
+            </p>
+            <p>Theſe two I think will be enough on this firſt ge<g ref="char:EOLhyphen"/>neral; for I do not think it ſo needful to waſte our time in giving the Notion of a <hi>Righteous Man,</hi> for whom the Law is ſaid not to be made.</p>
+            <p>This is plain enough in Holy Scripture, if Men would let it be ſo, and had not ſome ill Ends in per<g ref="char:EOLhyphen"/>plexing the Notion of it. I confeſs there are two Notions of a Righteous Man, as well as of Righteouſ<g ref="char:EOLhyphen"/>neſs in Scripture; the one more reſtrained, and then it ſignifies a Juſt Man; and the other more lax and large, and then it is the ſame as a Good Man, <hi>i. e.</hi> one that is careful to do his Duty in all the Inſtances of it, reſpecting God, his Brother, or himſelf, which
+<pb n="4" facs="tcp:93976:5"/> our Apoſtle expreſſeth by <hi>living ſoberly, and righte<g ref="char:EOLhyphen"/>ouſly, and godly in this World,</hi> Tit. 2.12.</p>
+            <p>It is commonly taken in this ſenſe, and I believe almoſt always ſo, where it is ſingly named, and when one of the other words are not joyned with it, as in this place, and a hundred more both in the V. and N.T. and the word is very proper in this ſenſe: For as all Duty, of what nature ſoever, is founded in Juſtice, and the variations of one are but ſo many Inſtances of the other; ſo a good Man is properly called a righteous, or a juſt Man, becauſe he is juſt to his God, juſt to his Neighbour, and juſt to himſelf.</p>
+            <p>Not alas that he is always exactly ſo, and comes up to the Rule in every thing; for this is a ſtate of Imperfection and Weakneſs, wherein the very beſt Men are ſometimes born down by ſurprize, and the violence of Temptations, <hi>&amp;c.</hi> but being ſincerely ſo to his Power, begging Pardon for what he falls ſhort in, and ſtriving ſtill to do better, he is upon the gra<g ref="char:EOLhyphen"/>cious Terms of the Goſpel reputed a righteous Man, and ſhall be accepted as ſuch.</p>
+            <p>But now to come to our purpoſe, how is the Law ſaid not to be made for ſuch a one? Hath a good Man no In<g ref="char:EOLhyphen"/>tereſt in the Law? nor may he expect the benefit there<g ref="char:EOLhyphen"/>of; is not a good Man at all concerned to regard God's Laws? or is he not chargeable with Sin, if he happen to tranſgreſs them? doth this favour thoſe wild freaks of Antinomianiſm, that we have heard vented in this looſe Age? that a Child of God is not concern'd about the drudgery of Duty, or obliged to it, that it is no great matter whether he regard the Law of God or not. He is juſtified by Faith in Chriſt, and whether he obſerve the Law, or tranſgreſs it, is no great Mat<g ref="char:EOLhyphen"/>ter,
+<pb n="5" facs="tcp:93976:5"/> the one ſhall no more help on, than the other ſhall prejudice his Salvation.</p>
+            <p>But muſt we underſtand this Speech of our Apoſtle to any ſuch purpoſe, or in Patronage of it? God forbid! This were to abuſe the Law indeed, and per<g ref="char:EOLhyphen"/>haps in a much worſe ſenſe than theſe Hereticks did.</p>
+            <p>So that you ſee it will be needful to give the true ſenſe of this Speech of our Apoſtle, and reſcue it from thoſe groſs Abuſes that have been put upon it, and thoſe wild Inferences that have been deduced from it in this Enthuſiaſtick Age.</p>
+            <p>To which purpoſe I obſerve firſt negatively, that we muſt not underſtand this Saying abſolutely, or think that it holds <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the Schools ſpeak; as if either,</p>
+            <p n="1">1. A good Man were not at all concerned in the Law, or had not right to claim the Benefit of it in any caſe; for it is both his protection from Evil, and remedy againſt it; and he may warrantably apply to it for both theſe ends.</p>
+            <p>So that in this ſenſe the reverſe to the Text is true, the Law is made for the Righteous, and not for the Sinner. It is made to protect the Innocent, and not the Guilty; to ſecure good Men from Wrong, and to repair them when they receive it.</p>
+            <p>It is a wild freakiſh Conceit to think the contrary, as ſome ancient Hereticks, and a preſent Spawn of them among us pretend to do, as if by a ſeeming over-ſtrictneſs in this and ſome other, both Doctrines and Practices, they would conceal or compenſate for their Looſeneſs and Blaſphemy in others.</p>
+            <pb n="6" facs="tcp:93976:6"/>
+            <p>There is an extremity, I muſt confeſs, in this, as there is uſually in moſt Caſes of this Nature, and the Apoſtle ſeems to tax it in the Chriſtians at <hi>Corinth,</hi> that is, to go to Law for every Trifle, and to implead Men preſently for every little Treſpaſs; to take every Advantage in Law that another Man's Ignorance and Simplicity may give us; to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>righteous evermuch,</hi> as <hi>Solomon</hi> calls it, <hi>Eccl.</hi> 7.16. for many Caſes may happen, in which it will not become a good Man, or is hardly conſiſtent with that Character, to be rigorous in Proſecuting another, though in ſtrict<g ref="char:EOLhyphen"/>neſs the Law may be on his ſide. Leſſer Injuries were much better to be born, than rigorouſly to be Proſe<g ref="char:EOLhyphen"/>cuted. And our Saviour ſeems not only to Adviſe but Command it, in that ſeeming hard Saying, S. <hi>Mat.</hi> 5.19, 20. the meaning of which is only this, that it were much better and wiſer, in many Caſes, to put up leſſer and tolerable Injuries, than revengefully to Proſecute him that offer'd them, and force him to make the utmoſt reparation.</p>
+            <p>But where there are Extremities, there is uſually a juſt and vertuous Medium; and ſo there is in this Caſe, and that is the warrantableneſs of a good Man's expecting the protection of Law in all Caſes, and pleading the Benefit of it in ſome. For the great fundamental Reaſon and Intention of Law is, that an Innocent Perſon ſhould be protected from Evil in all Caſes, and ſuffer it in none.</p>
+            <p n="2">2. We muſt not ſo interpret this Saying, as if a good Man were not under the obligation of Law, or not in duty bound to regard and obey both the Laws of God, and of his Country too, as much as any other Man.</p>
+            <pb n="7" facs="tcp:93976:6"/>
+            <p>There hath a wild Doctrine indeed been propaga<g ref="char:EOLhyphen"/>ted in theſe looſer Ages, that a good Man is above Law, and manumitted from it, is a Freeman in Chriſt, and muſt not be <hi>the Servant of Men.</hi> Dominion and Property is founded in Grace, and the Saints are to give Laws to others, and not to receive Laws from them.</p>
+            <p>What Miſchief hath been done under the Umbrage of this Doctrine, and what barbarous things it hath been pleaded in vindication of, thoſe that have either conſidered ſome late Paſſages in this Nation, or read the Story of the wild proceedings of the Anabaptiſts in <hi>Germany</hi> before, are able to tell you. And were it not that the Jeſuits Morals are well known, and their Avowing, not only the Innocency but Merit of the moſt unchriſtian things that are done for the In<g ref="char:EOLhyphen"/>tereſt of their Church, it might be thought impoſſible, that Men that wear the Profeſſion of Chriſtianity, ſhould ſo unlearn their good Religion, as to commit ſuch things under pretence of it.</p>
+            <p>But that this Inference alſo is far from being war<g ref="char:EOLhyphen"/>ranted by any thing our Apoſtle means in this Saying, is evident. For,</p>
+            <p n="1">1. The Divine Laws are the Rule of a good Man's Life and Actions; and the Goſpel is ſo far from task<g ref="char:EOLhyphen"/>ing theſe, or diſcharging good Men from them, that it ties the Obligation to them cloſer and more ſtrong<g ref="char:EOLhyphen"/>ly: And this is ſpoken ſo expreſly, both by our Sa<g ref="char:EOLhyphen"/>viour, <hi>Mat.</hi> 5.17. and our own Apoſtle too, <hi>Rom.</hi> 3. <hi>ult.</hi> that none can well miſtake it.</p>
+            <p n="2">2. And we find the ſame Apoſtle as expreſs too, as to a good Man's Obligation to the Laws of his King and Country; and as long as the <hi>five firſt Ver<g ref="char:EOLhyphen"/>ſes
+<pb n="8" facs="tcp:93976:7"/> of the</hi> 13th <hi>Chapter to the Romans</hi> are uncancelled, there will be no avoiding of it, nor any pretence of Saintſhip, or Clergyſhip either (if you will give me leave to make a Word) that can excuſe or diſcharge from it. For according to the Doctrine in that place, thoſe that think otherwiſe, and act up<g ref="char:EOLhyphen"/>on thoſe Thoughts, may receive to themſelves Dam<g ref="char:EOLhyphen"/>nation, with a <hi>non obſtante</hi> either to their being Cler<g ref="char:EOLhyphen"/>gymen or Saints.</p>
+            <p n="3">3. No nor 3dly, muſt we ſo expound this Paſſage, as either to teach, or think, that a Righteous Man doth not ſin, or offend God, if he do in any thing tranſgreſs his Law.</p>
+            <p>I confeſs, ſo far as any Man is Righteous, ſo far he is from tranſgreſſing God's Law; and in proporti<g ref="char:EOLhyphen"/>on to his failing in any Duty which that Law re<g ref="char:EOLhyphen"/>quires, or committing any Evil which it forbids, ſo far he falls ſhort of the Character of a Righteous Man. But this being (as I ſaid before) a State of Imperfection, in which (ſaith <hi>Solomon</hi>) there is <hi>not a righteous Man that ſinneth not,</hi> ſome Tranſgreſſions of the Law are incident to a Righteous Man, but theſe muſt not be exempted from being Sins.</p>
+            <p>I enter this Remark in oppoſition to another frea<g ref="char:EOLhyphen"/>kiſh Opinion, that hath been propagated in con<g ref="char:EOLhyphen"/>ſequence of the <hi>Antinomian Doctrines,</hi> touched at be<g ref="char:EOLhyphen"/>fore. For it is pretended, that God ſees no Sin in his People; and, that as there is no Condemnation, ſo there is nothing condemnable in them who are in Chriſt Jeſus; but thoſe things which in them that are out of Chriſt, are formally Sins, loſe their Maligni<g ref="char:EOLhyphen"/>ty, and are no Sins in them that are in him.</p>
+            <pb n="9" facs="tcp:93976:7"/>
+            <p>There was once a Book printed in <hi>London, Anno</hi> 1656. and with the Approbation and Commendation of moſt of the leading Miniſters there (eſpecially of the Independant Party) in which there is this memorable Paſſage:
+<q>In caſe you be at any time, by sreaſon of the weakneſs of your Faith, or ſtrength of your Temptation, prevailed with to tranſgreſs any of Chriſt's Commands, beware you do not thereupon take occaſion to call Chriſt's Love to you into queſtion, but believe firmly, that he loves you as dearly as he did before you tranſ<g ref="char:EOLhyphen"/>greſſed.—For this is a certain Truth, as no Good in you, or done by you, did, or can move Chriſt to love you the more; ſo no Evil in you, or done by you, can move him to love you the leſs.</q>
+            </p>
+            <p>This Book was called, <hi>The Marrow of Modern Di<g ref="char:EOLhyphen"/>vinity:</hi> And it might truly be called of <hi>Modern Di<g ref="char:EOLhyphen"/>vinity</hi> indeed, for I am ſure there is nothing of the Primitive Ancient Divinity in it. Thoſe good Men, thoſe famous Lights of Chriſt's Church, nei<g ref="char:EOLhyphen"/>ther knew nor taught any ſuch Doctrines, but as they found, by ſad Experience, that none (while here) were ſo perfect as not to tranſgreſs the Laws of Chriſt; ſo they were far enough from thinking that thoſe Tranſgreſſions were not formal Sins even in the beſt of Men.</p>
+            <p>And therefore, as they taught with St. <hi>John,</hi> 1 <hi>John</hi> 1.8. that if the beſt Men ſaid <hi>they had no Sins, they would deceive themſelves, and the Truth,</hi> &amp;c. ſo they taught too, that daily confeſſing of our Sins, dai<g ref="char:EOLhyphen"/>ly Repentance for them, and daily Applications to the Mercies of God and Merits of Chriſt for the
+<pb n="10" facs="tcp:93976:8"/> pardon of them, was neceſſary for the moſt Righte<g ref="char:EOLhyphen"/>ous while they liv'd in this World.</p>
+            <p n="2">2. But how then are we to underſtand this Paſ<g ref="char:EOLhyphen"/>ſage in our Text? Why, I think, we ſhall beſt, and moſt diſtinctly do this, by conſidering that there are two Parts of the Law, or two Things conſi<g ref="char:EOLhyphen"/>derable in it; the Preceptive (if I may ſo ſpeak) <hi>i. e.</hi> the Thing commanded, or forbid; and the San<g ref="char:EOLhyphen"/>ction, <hi>i. e.</hi> the Puniſhment threatned to enforce Re<g ref="char:EOLhyphen"/>ſpect to it.</p>
+            <p n="1">1. There are ſome that adventute to ſay (and perhaps, if well underſtood, ſafely enough) that the firſt was not given for a Righteous Man: Their Reaſon is, becauſe a good Man needs not the Di<g ref="char:EOLhyphen"/>rection of an external Law to ſhew him his Duty, becauſe he is in ſome Senſe <hi>a Law to himſelf,</hi> as our Apoſtle ſpeaks, <hi>Rom.</hi> 2.14. he finds it written upon the Table of his own Heart and Mind, and needs not ſay, <hi>who ſhall aſcend into Heaven,</hi> &amp;c. to fetch him the Knowledge of it from thence, as ſome in<g ref="char:EOLhyphen"/>terpret another Paſſage in the ſame Epiſtle.</p>
+            <p>Thus it was (ſaith <hi>Ireneus</hi>) with the good Men that liv'd before <hi>Moſes;</hi> they had no written Law, nor needed any, becauſe they found (as I ſaid before) the great Lines of Duty written upon their own Minds. Now it is in its proportion true of all good Men ſince, and what need they the Pedagogie of a Law to teach them their Duty, that underſtand it well enough, if they will attend to the Inſtruction of their own Minds and Conſciences?</p>
+            <pb n="11" facs="tcp:93976:8"/>
+            <p>But I will not adventure to lay all the weight of this Saying only upon this Expoſition (though I confeſs it hath very good Authority to plead;) for I do not think this inward Light ſo very clear in Men, but that they may want a clearer Director and Guide in many Caſes; and I am ſure the beſt Men have gladly accepted, and acknowledged the Bene<g ref="char:EOLhyphen"/>fit of the written Law and Revelation of God.</p>
+            <p n="2">2. I would therefore rather think, that this Speech of our Apoſtle reſpects the Sanction of the Law; I mean the Penal part of it, <hi>i. e.</hi> which com<g ref="char:EOLhyphen"/>mands ſuch Duties, and forbids ſuch Sins, under the Penalty of Sufferings and Puniſhments, in caſe of neglelecting the one, and committing the other. And this, I think, may be ſaid not to be made for a Righteous Man in theſe two reſpects.</p>
+            <p n="1">1. That it is not the Impellent of his Duty, or not the great Argument that influenceth his Obedi<g ref="char:EOLhyphen"/>ence: He ſerves his God, and doth his Duty wil<g ref="char:EOLhyphen"/>lingly, and from a vital Principle within, and ſo needs not the Rod of the Law to whip him to it. For what need of a Law (ſaith St. <hi>Chryſoſtom</hi>) to force them to Duty, who do it willingly of their own Accord, by the Influences, as well as Aſſiſtance of God's Spirit and Grace? and I find St. <hi>Auguſtin,</hi> St. <hi>Hierome,</hi> and others, quoted to the ſame pur<g ref="char:EOLhyphen"/>poſe.</p>
+            <p>And this ſeems to be favoured by what our Apoſtle ſpeaks ſo often of the Goſpel Spirit, in oppoſition to the legal, calling one <hi>the Spirit of Love,</hi> as 2 <hi>Tim.</hi> 1.7. and the other <hi>of Bondage,</hi> as <hi>Rom.</hi> 8.15. one therefore is called the Spirit of a Child, which doth his Duty out of filial Reſpect and Love; the
+<pb n="12" facs="tcp:93976:9"/> other of a Slave, who doth what he doth only for Fear.</p>
+            <p>I am not of ſome ranting Enthuſiaſts Opinion, that it is altogether below a Good Man, to have either any regard to Reward or Puniſhment; I think Hope and Fear two very uſeful Paſſions in Man while he is in this State, and that it is not un<g ref="char:EOLhyphen"/>becoming Good Men to be influenced in ſome Mea<g ref="char:EOLhyphen"/>ſure by them. Though I do believe that the more a Man improves in the Divine Life, the more he gets from under their Government, and the leſs he needs them; and in time arrives to that ſetled State, and that ſweet Reliſh of God and Goodneſs, as to be a<g ref="char:EOLhyphen"/>ble with the good Man of old, to ſay, <hi>Amor meus pondus meum.</hi> Love is the great Weight that ſets my Mind in Motion, and the prevailing Argument in all my Duty and Services to my God.</p>
+            <p n="2">2. The Penal part of the Law is not made for a <hi>Righteous Man,</hi> becauſe he is not obnoxious to it, nor within the reach of it. The Penalty of the Law is to be inflicted upon thoſe only that tranſgreſs the Law, which a Righteous Man, ſo far as he is righte<g ref="char:EOLhyphen"/>ous, doth not; and for what he doth amiſs, God will accept his Repentance, as a deletery of his Guilt, for the ſake of what his Saviour hath done and ſuffered for him. Being made free from Sin, he is freed from the Curſe due to Sin, and ſo in this Senſe (as well as ſome others) <hi>is not under the Law, but under Grace.</hi>
+            </p>
+            <p>This ſhall ſuffice for the Explanation of this Ne<g ref="char:EOLhyphen"/>gative part of the Text, <hi>The Law was not made for a Righteous Man.</hi>
+            </p>
+            <p n="2">
+               <pb n="13" facs="tcp:93976:9"/>2. The next is the Poſitive, but <hi>for the Lawleſs and Diſobedient, i. e.</hi> for Sinners in general, and for thoſe notorious Sinners in particular, which are after<g ref="char:EOLhyphen"/>wards mentioned, as a juſt Reflection upon thoſe impure <hi>Gnoſticks,</hi> who taking upon them to be the moſt refin'd Expounders of the Law, were in the mean time the moſt groſs and lewd Tranſgreſſors of it.</p>
+            <p>To our underſtanding of this there will need the leſs to be ſaid, after what hath been offer'd up<g ref="char:EOLhyphen"/>on the former. To proceed therefore here in the ſame Method we did before.</p>
+            <p n="1">1. I obſerve firſt, Negatively, The Law was not made for the Lawleſs and Diſobedient, <hi>&amp;c.</hi> either firſt, to indulge them in their Wickedneſs; or, 2dly, protect them in doing amiſs; or, 3dly, ſecure them from Puniſhment when they have done ſo. We are by no means to think the Apoſtle means any ſuch things; and it were a groſs miſunderſtanding the Reaſon and Deſign of Law to think ſo.</p>
+            <p>The ſame Apoſtle tells us, That Magiſtrates are appointed <hi>for the Puniſhment of Evil-doers;</hi> and the Law is the Inſtrument by which they puniſh them: And it were as groſs a perverting the End of Laws, to ſlacken them in favour of an ill Man, as it would be to ſtretch and tenter them to the Prejudice and Pu<g ref="char:EOLhyphen"/>niſhment of the Innocent and Good.</p>
+            <p n="2">2. The meaning then poſitively muſt be in ſome ſuch Particulars as theſe that follow:</p>
+            <p>Either firſt, as to the directing part of the Law, to ſhew wicked Men their Duty, and to mark out their Sins; and perhaps this may be aſſerted not without
+<pb n="14" facs="tcp:93976:10"/> good Reaſon. For though the great Lines of Duty, and the difference between Good and Evil, be drawn pretty clear upon the Minds of all Men, and a Senſe thereof wrought into the very Contexture of Hu<g ref="char:EOLhyphen"/>man Nature, ſo that there is no pulling it out, without quite unravelling the whole.</p>
+            <p>Yet it may reaſonably be preſumed, that this Senſe is much weakned and diſtorted, and this Innate Light greatly obſcured in moſt Wicked Men: And I would fain hope, that a great part of the Wickedneſs commited in the World is done out of Ignorance, as much, or more, than Wilfulneſs. I would not willingly think ſo ill of Human Nature, or allow it to be degenerated to ſuch monſtrous degrees, as that all Men that ſin, do ſo of <hi>malicious Wickedneſs,</hi> as the <hi>Pſalmiſt</hi> ſpeaks. Moſt Wicked Men, I hope, do not know when they do amiſs, at leaſt, do not actually conſider that they do ſo.</p>
+            <p>So that upon both Reaſons, the Law may be ſaid to be wiſely made for a Wicked Man, to ſupply the Light of his own Mind, which he hath obſcured, and to force him to advert to that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that kind Monitor in his own Breaſt, which he by his wicked Arts hath endeavoured to ſilence and ſtop the Mouth of.</p>
+            <p>However this be, it may to be ſure, be ſafely aſ<g ref="char:EOLhyphen"/>ſerted, that the Law was <hi>made for a Wicked Man,</hi> up-theſe two Reaſons that follow.</p>
+            <p n="2">2. That it might reſtrain and curb the Evil Propen<g ref="char:EOLhyphen"/>ſions of Men, and keep them in from breaking out into thoſe Wickedneſſes that they are ſo very prone unto.</p>
+            <pb n="15" facs="tcp:93976:10"/>
+            <p>This is certainly the chief Deſign and Aim of Laws, not only by their Light to mark out all thoſe Inſtances of Vice, which are ſo deſtructive to Men themſelves, and eſpecially to the Community of which they are Members (juſt as Buoys and Sea<g ref="char:EOLhyphen"/>marks are ſet to give notice to Marriners of Rocks and Shelves, that they may take care in time to a<g ref="char:EOLhyphen"/>void them;) but alſo by their Sanctions and Threat<g ref="char:EOLhyphen"/>nings of Puniſhment, to fright Men from them.</p>
+            <p>For as well as Men love Sin, they love not the Suffering for it; and as violent and impetuous as their Inclinations are to the one, yet they may be checked and awed by the other.</p>
+            <p>Fear and Love are two moſt powerful Paſſions in Human Nature; and until all Wicked Men have quite put off theſe, or ſurmounted the force of them, the Sanctions of Law will have ſome effect upon them, becauſe they cannot allow themſelves to tranſgreſs, and incur thoſe Penalties, till they have quite loſt all love and reſpect to themſelves, or quite extin<g ref="char:EOLhyphen"/>guiſhed all fear of Suffering. And whatever we may ſee to induce us to believe that hardened Sin<g ref="char:EOLhyphen"/>ners have done both theſe, yet I am apt to believe, that they are far from them. They do in truth but put a bold Face upon a bad Matter. They ſin, not that they care not for Suffering, but that they hope they may eſcape it. They feel ſome ſecret Checks, and uneaſie Bodings of Danger in their own Minds and Conſciences; but they ſtudy Arts to weaken the Power of the one, and diſargue the Preſages of the other; and then they venture upon Sin with leſs re<g ref="char:EOLhyphen"/>gret or controul.</p>
+            <pb n="16" facs="tcp:93976:11"/>
+            <p>But certainly while the ſenſe and fear of Suffering is freſh upon their Minds, ſelf-love and fear will have ſome hold upon them; and then the threatnings of the Law will have ſome hold of them too, ſo as in ſome meaſure to be a curb and reſtraint upon them.</p>
+            <p>So that Laws are wiſely and with great reaſon made to this purpoſe; and while humane Nature re<g ref="char:EOLhyphen"/>mains in any meaſure like it ſelf, they will not fail of ſome effect upon Men. And it is owing chiefly to theſe, and God's immediate Interpoſition with them, that the World is not quite over-run with Wickedneſs and Confuſion long before this time.</p>
+            <p n="3">3. But there is a third Reaſon upon which the Law may be ſaid to be made for a Wicked Man; and no doubt but the Apoſtle had reſpect to it, and that is, it is made for his Correction and Puniſhment.</p>
+            <p>This is alſo one great end of the Law, though I think but collateral and conſequential; for as I think it would be a reflection upon Law, to ſay, that it di<g ref="char:EOLhyphen"/>rectly intends Puniſhment and Suffering; ſo I think it as great a Miſtake to ſay, that a Man obeys the Law, by ſuffering the Penalty threatned by it, as well as by doing the Duty commanded in it. Upon which Rea<g ref="char:EOLhyphen"/>ſon I profeſs, that to me there are ſome Difficulties in the Doctrine of <hi>Active</hi> and <hi>Paſſive</hi> Obedience, as they are commonly received, which I can never get over, till I can be perſwaded to believe, that a Man is as obedient a Subject in dying for Treaſon, as in yield<g ref="char:EOLhyphen"/>ing faithful Allegiance to his Prince.</p>
+            <p>But I return to what I was ſaying; that though Laws are made to reſtrain Men from ſinning, yet they are made too to puniſh them for ſinning; and without this all their threatnings of Puniſhment were
+<pb n="17" facs="tcp:93976:11"/> to little purpoſe; it would avail but little, as to the end of Law, to threaten Suffering and Puniſhment to Offenders, if it were not intended to execute what is threatned; and (as perhaps will be ſaid by and by) if ſometimes when there is occaſion, that which was threatned be not actually executed.</p>
+            <p>But I will ſtay no longer upon this Doctrinal part of my Diſcourſe, but proceed immediately to the ſe<g ref="char:EOLhyphen"/>cond.</p>
+            <p n="2">II. General, which is to make it as uſeful as I can, by drawing ſome Inferences from it, which will ſhew this Diſcourſe not to be wholly impertinent, or irrela<g ref="char:EOLhyphen"/>tive to the Reaſon of this Convention.</p>
+            <p n="1">1. And firſt I obſerve from what hath been ſaid, what a happineſs it is to the World in general, and to Nations in particular, to be under Government and Laws.</p>
+            <p>There is abundance of Wickedneſs in the World (God knows,) but if it were not for Laws, there would certainly be a great deal more. And we that ſee how hardly Men are reſtrained from Sin, by all the Arts of Government, and utmoſt Severities of Laws, may eaſily tell (without the Spirit of Prophecy) how impetuous and violent they would be, were they not under theſe at all. All the Penalties and Threatnings of Puniſhment cannot over-awe Men ſo, but that they will venture upon Wickedneſs; what would they do then, if they were under no apprehenſion or fear of them?</p>
+            <pb n="18" facs="tcp:93976:12"/>
+            <p>It hath been commonly ſaid, that without Govern<g ref="char:EOLhyphen"/>ment and Laws, the Societies of Men would be but ſo many wild <hi>Arabian</hi> Herds; and the truth is, they would be very little better. That ſtate of War which the great Factor for Atheiſm, in this Nation, makes to be the natural ſtate of Man, would be ſo ſtill; where Men would be everlaſtingly claſhing and fight<g ref="char:EOLhyphen"/>ing with one another, where Might would be the only Right; and where the Stronger would ſtill be preying upon the Weaker; where there would be no ſuch thing as Rights and Properties, nor any Man ſure to enjoy any thing that he had, any longer than another ſhould pleaſe not to diſpoſſeſs him of it. A Man can hardly think, but no Man can fully deſcribe the Miſery and Confuſion that would be among Men, the Fears and Jealouſies that would ſtill haunt and di<g ref="char:EOLhyphen"/>ſturb them in ſuch a State, without all hope or poſſi<g ref="char:EOLhyphen"/>bility of redreſs.</p>
+            <p>I have often thought, that it was not without ſome ſhow of Reaſon at leaſt, that thoſe Men in the Hea<g ref="char:EOLhyphen"/>then World of old, that had been happily inſtrumen<g ref="char:EOLhyphen"/>tal in reducing Cities and Nations under Government and wiſe Laws, were honour'd after their Death with Divine Worſhip, Men thinking that the good they did to their reſpective Cities and Nations was ſo im<g ref="char:EOLhyphen"/>menſely great, that no mortal Honours were big enough to be returned for them. And upon the ſame reaſon did ſome wiſe Lawgivers eaſily perſwade the People to believe, that they had their Laws from the Gods.</p>
+            <p>And the truth is, the benefit beſpake a God, and was worthy of a God, and no meaner a return was due for it; and all the fault was, that it was extrava<g ref="char:EOLhyphen"/>gantly
+<pb n="19" facs="tcp:93976:12"/> miſplaced upon thoſe who were but only In<g ref="char:EOLhyphen"/>ſtruments in theſe Bleſſings, under that great and good God, who hath fitted Men for Government, and in<g ref="char:EOLhyphen"/>ſpired them with Knowledge and Skill to make Laws, that were both ſo uſeful to ſupport Government, and ſo beneficial to thoſe that were under it.</p>
+            <p>To him therefore be the praiſe of theſe Bleſſings always return'd. Let thoſe great Men, that have been, or are Inſtruments under him, in conferring theſe Bleſſings, have all Honour and Reſpect fit to be paid to Mortal Beings. But let God be adored and praiſed both in them and for them.</p>
+            <p>And that I may bring this Inference ſomething cloſer to our ſelves, let me obſerve, that if there be a Nation at this Day, under Heaven, that hath cauſe to bleſs Almighty God for this Happineſs, we in this Kingdom and Nation have more. Other Nations are under Government, and doubtleſs have many wiſe and excellent Laws; but he that hath obſerved the ſtate of thoſe Governments, and thoſe that live un<g ref="char:EOLhyphen"/>der them, and then reflects upon our own, may very well borrow the Verſe of the Poet a little changed, <hi>Felices nimium bona ſi ſua nôrint.</hi>—O happy <hi>England,</hi> if it would but think it ſelf to be ſo; and be ready to think that there was nothing wanting to make this the happieſt Government in the World, ſo much as Mens conſidering and being ſatisfied, that ſo it is.</p>
+            <p>A Government ſettled in that happy poiſe, that Subjects are as much ſecured from the power of the Prince, as the Prince is ſo from the Inſults of the People, under no Laws but what themſelves have an Intereſt in making, not liable to any Exactions to which themſelves do not conſent.</p>
+            <p>May God Almighty always continue it, and make
+<pb n="20" facs="tcp:93976:13"/> us duly thankful for it. And may all Factious and Seditious Perſons, that would diſturb, or overturn it, be mark'd for common Plagues, and avoided as ſuch. May they feel the Penalties of thoſe Laws which them<g ref="char:EOLhyphen"/>ſelves deſpiſe, and of ſharper too if they can be made. May they by a bleeding Experience find, that our Laws which are ſo much for the protection and benefit of good Men, were in truth made for ſuch <hi>lawleſs and diſobedient</hi> Wretches as themſelves.</p>
+            <p>There are many excellent deductions that might be made from this Argument, but I muſt not think to have time allowed me for them. Therefore I ſhall only crave patience while I remark only one more. And that's this,</p>
+            <p n="2">2. If the Laws be made for <hi>diſobedient and wicked</hi> Men, then I hope it will be thought fit to execute them againſt ſuch.</p>
+            <p>Here is a black Liſt of ſome notorious Crimes fol<g ref="char:EOLhyphen"/>lowing in the Text, and ſome ſo unnatural that a Man might think them hardly competent to Men. But there are ſeveral others beſides them, that it may be deſerve as ſevere an Animadverſion of the Laws, and I would to God I could not ſay among our ſelves at this day.</p>
+            <p>It is a very melancholick Reflection to obſerve how ſtrangely Profaneneſs is come to abound of late in this Nation, and to what a monſtrous height it is grown, ſo as almoſt to ſcorn all Law, and bear down all re<g ref="char:EOLhyphen"/>ſtraint of it.</p>
+            <p>It is ſomething ſtrange, that in a ſober Nation (as this hath been accounted) a Nation profeſſing Godli<g ref="char:EOLhyphen"/>neſs and Chriſtian Religion; and this Religion re<g ref="char:EOLhyphen"/>formed from many groſs Errors, <hi>&amp;c.</hi> that ſtick to it yet in many other Nations, I ſay it is ſomething ſtrange that in ſuch a Nation, and where there are ſo many excellent Laws againſt it too, Wickedneſs ſhould
+<pb n="21" facs="tcp:93976:13"/> overflow, and cauſe ſuch a dreadful Inundation.</p>
+            <p>It were perhaps worthy of an Inquiry what the Cauſes of this ſhould be. And beſides the common ones that always operated to this purpoſe, and always will, I be<g ref="char:EOLhyphen"/>lieve theſe two will be found to be the moſt influential.</p>
+            <p>One is that wretched Artifice of our Enemies of the <hi>Roman</hi> Communion, and the Method that that bleſſed Sect of Jeſuits have taken to bring us o'er to their Re<g ref="char:EOLhyphen"/>ligion by; which was by unhinging Mens natural ſenſe of Religion, and arguing them into Atheiſm, or a down<g ref="char:EOLhyphen"/>right Scepticiſm and queſtioning the Obligations and Reaſons of all Religion; yea, a ſtudied propagating Senſuality and Looſneſs of Life and Manners, as well as of Belief.</p>
+            <p>It may well ſeem ſtrange, that Atheiſm ſhould be thought a likely way to bring Men to Religion, or Looſ<g ref="char:EOLhyphen"/>neſs in Life a good Method to make them good Catho<g ref="char:EOLhyphen"/>licks. If we conſider things only ſuperficially, we may very well queſtion the Policy of this.</p>
+            <p>But alas we are deceiv'd if we do ſo. Thoſe cunning Sophiſters know what they do, and are as ſubtil as the old Serpent in it; bring Men to an Atheiſtical Temper once, and then all ways of Religion are alike to them. Debauch their Manners, and then if there muſt be any Religion, let it be the eaſieſt, that which will allow the greateſt latitude to Vice, and give hopes of Pardon upon the cheapeſt terms. And let the <hi>R. Religion</hi> alone for that.</p>
+            <p>We have liv'd to ſee the effect of this Policy in the few Proſelites that they gain'd, when they played their Game openly among us; when it was eaſie to ſee what was the moſt prevailing Argument in moſt of their Converſions.</p>
+            <p>Another Cauſe doubtleſs hath been from our own unhappy Differences and Conteſts about Religion a<g ref="char:EOLhyphen"/>mong
+<pb n="22" facs="tcp:93976:14"/> our ſelves. In the ſtarting and fomenting of which, though it be notoriouſly known that they have had a great hand, yet we are ſo imprudent and unhap<g ref="char:EOLhyphen"/>py, as to perſue their Methods againſt our ſelves.</p>
+            <p>The effect of theſe is too notorious to need inſtan<g ref="char:EOLhyphen"/>cing, it being natural for Men that ſee ſo many Religi<g ref="char:EOLhyphen"/>ons to queſtion all, or reſolve to be of none, till all be agreed. Eſpecially when they think they are indulg'd, or at leaſt can pervert the meaning of an Indulgence to that purpoſe; for let it be marked as well as can be, it will be found, that as long as Men are indulg'd to be of what Religion they will, there will be a great many that will be of none at all. It is ſeen to be thus among us, and is plain matter of Fact. Men are permitted upon ſome Conditions to go to what places of Worſhip they think beſt, but abundance under that umbrage go to none at all; which though it be quite beſide the In<g ref="char:EOLhyphen"/>tention of the Law, yet it ſeems little notice is as yet taken of it.</p>
+            <p>Now when Religion is at ſo low an ebb among us, it is no wonder if all manner of Profaneneſs and Wick<g ref="char:EOLhyphen"/>edneſs run high, and ſo high (as if not timely check'd) to be very likely in a little time to overflow all.</p>
+            <p>But therefore ſure there is more need to give check to it, and ſtemm this Torrent by the ſtrength of Laws. Which were they as vigorouſly executed, as they are wiſely made, would go near to take down the Creſts, and Con<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dences of wicked Men, and cool their courage in Sin. Men may Hector, and make a noiſe, but Law edg'd and back'd with ſtrict Execution, would be too hard for them, and whatever Confederacies or Compli<g ref="char:EOLhyphen"/>cations in Wickedneſs there might be, the Sword of Ju<g ref="char:EOLhyphen"/>ſtice would as eaſily diſſolve them, as that in the hand of <hi>Alexander</hi> did the <hi>Gordian</hi> Knot.</p>
+            <pb n="23" facs="tcp:93976:14"/>
+            <p>And thus far I dare ſay we are all agreed, but here comes in the great Queſtion, how ſhall we get theſe Laws executed? and on whom doth that Obligation to execute them lye?</p>
+            <p>The Supream Authority and Power hath diſcharg'd it ſelf, and gone as far in this as it can; both by making us good Laws, and awakening them too by repeated Proclamations, and Remembrances in Parliament; ſo that He that, under God, hath been ſo Inſtrumental in ſaving us from one Evil, hath ſhew'd himſelf willing and deſirous too that we might be ſecured from worſe.</p>
+            <p>But alas what can a poor Prince do more? He may recommend Virtue by his own Example; and He may diſcourage Profaneneſs by his Frowns; but alas few live under the Influence of the one, or within the reach of the other.</p>
+            <p>He may impart of his Power to others under him, and commiſſion them as his Delegates to do Juſtice; but what if theſe be remiſs, or neglect to do it? It is ſaid that Kings have long Ears and Hands too; and it is true, becauſe their Authority reacheth far, and can puniſh in the moſt moſt diſtant Places. But then it is as true, that they but ſee and hear with other Mens Eyes and Ears, and need them to give them Informa<g ref="char:EOLhyphen"/>tion of Miſdeeds, as well as their Hands for the Exe<g ref="char:EOLhyphen"/>cution of Law againſt them: And if thoſe other Men fail in either of theſe, who, I pray, is to be blamed?</p>
+            <p>It is very well, and a Happineſs to the whole Nati<g ref="char:EOLhyphen"/>on, that at ſome ſtated times the Laws are awakened by ſolemn Executions. But alas, what doth this ſigni<g ref="char:EOLhyphen"/>fie whilſt they lie dormant all the Year beſides? What doth the Puniſhment or Death of a few forlorn Thieves, deſperate Robbers, or ſome few bloody Murtherers ſig<g ref="char:EOLhyphen"/>nifie, as to giving Check to the Wickedneſs of a Na<g ref="char:EOLhyphen"/>tion?
+<pb n="24" facs="tcp:93976:15"/> There are other Sins perhaps, both as heinous in their Nature, and pernicious in their Effects as theſe, either not taken notice of, or not puniſhed; as Lewd<g ref="char:EOLhyphen"/>neſs, Whoredom, Curſing, Swearing, Fraud, and Knavery, Drunkenneſs, and all manner of Debauche<g ref="char:EOLhyphen"/>ry, <hi>&amp;c.</hi> that brave even Authority, and laugh at Law.</p>
+            <p>My Lords the King's Juſtices can but puniſh what is brought before them; not be thought to know in a ſtrange Country what is done amiſs, and worthy of Puniſhment, unleſs it de preſented to them; and what a little of the Wickedneſs done among us that is, who knows not?</p>
+            <p>It muſt be you, Gentlemen, that are the Guardians of Law, and the Guarrantees of Peace in your Coun<g ref="char:EOLhyphen"/>try, that muſt lend your Hand to this Work, if ever it be done. There cannot many things be done amiſs (at leaſt in many places) but they will come to your Cognizance, eſpecially if you would pleaſe to be ſtrict in taking account of thoſe Officers that are under you, and let them ſee that you are really in earneſt in your Charges to them.</p>
+            <p>I hope I need not uſe Arguments to perſuade you to ſo good a Work; it commends it ſelf ſufficiently to all ſober conſidering Men: It is a Work that would endear you to your God, making you (in a Senſe) Sa<g ref="char:EOLhyphen"/>viours of your Country, and by the Mercies of God, ſave your own Souls in the great Day of the Lord Jeſus.</p>
+            <p>If therefore you love and honour your God, reſcue his Glory and great Name from the bold Profanations of Wicked Men. If you love and pity your Sin-ſick Country, adminiſter this Phyſick; without which her Diſeaſe will ſoon come to a woful Criſis. And if you love your ſelves, diſcharge worthily this high Truſt, which your God and your Prince hath honoured you
+<pb n="25" facs="tcp:93976:15"/> with, that you may give up your Account with Joy at that great Day.</p>
+            <p>The Laws of our Lord Jeſus Chriſt in the Goſpel are (I hope) faithfully made known, and the Terrors of the Lord urged upon Men, by thoſe upon whom that Duty is incumbent: And if there be any that are either falſe to their Duty in this, or render it ineffectu<g ref="char:EOLhyphen"/>al by their own looſeneſs, I thank God, I have no milder a Requeſt to make for them, than that of our Apoſtle againſt theſe falſe Teachers related to in the Text, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. For as I do really be<g ref="char:EOLhyphen"/>lieve a vicious Clergyman to be one of the worſt of Men in himſelf, ſo I look upon him as the moſt infe<g ref="char:EOLhyphen"/>ctious and pernicious in his Example. But I hope there is no need of this Reflection, but that we <hi>ſhall approve our ſelves the Servants of Chriſt, and your Servants for Je<g ref="char:EOLhyphen"/>ſus ſake.</hi>
+            </p>
+            <p>But alas, ſuppoſe theſe were never ſo faithful in their Duty, <hi>who will believe their Report,</hi> or be concerned at what they denounce againſt Sinners? Men live <hi>by Senſe, and not by Faith;</hi> and things that are ſo diſtant make little impreſſion upon them. They muſt be preſent and ſenſible Puniſhments that muſt have effect upon an un<g ref="char:EOLhyphen"/>believing and profane Generation of Men.</p>
+            <p>While Religion ſtood only by its own ſtrength, and the Church had only ſpiritual Weapons to war with, thoſe Weapons were not <hi>carnal, but mighty through God</hi> as our Apoſtle, 2 <hi>Cor.</hi> 10.4. For God was pleaſed to ac, company thoſe ſpirtual Cenſures with preſent Puniſh<g ref="char:EOLhyphen"/>ments; and to be delivered to Satan was for the de<g ref="char:EOLhyphen"/>ſtruction of the Fleſh without a Figure.</p>
+            <p>But when Scepters bowed to the Croſs of Chriſt, and Kings became <hi>Nurſing Fathers</hi> to his Church, then God expected that the Temporal Sword ſhould do that up<g ref="char:EOLhyphen"/>upon obſtinate Offenders, which he had been pleaſed
+<pb n="26" facs="tcp:93976:16"/> to do by the Miniſtry of Angels, in conſequence of the Spiritual: and ſo he expects it ſhould do ſtill, and there<g ref="char:EOLhyphen"/>fore it is hoped thoſe that bear the Sword, <hi>will not bear it in vain.</hi>
+            </p>
+            <p>It will require ſome meaſure of Courage, and the Spirit of a ſound Mind to do it, I confeſs: But what if it do? the Work will ſupport it ſelf, and yield you that inward ſatisfaction, and that comfort, which will bear you out againſt all the Reproaches and hard Words that can be caſt upon you by an evil Generation.</p>
+            <p>And would ſuch worthy Perſons but ſuffer themſelves to be effectually perſuaded to one thing, whatever dif<g ref="char:EOLhyphen"/>ficulties there might be in this Work, with God's Grace it might happily be effected. The thing I mean is this, Care to free themſelves from thoſe Vices, which they ſhould puniſh in others; elſe it is to be feared they will never do it, or never with Courage and Succeſs.</p>
+            <p>We ſay, when a Clergyman <hi>takes heed to himſelf</hi> as well as <hi>to his Doctrine,</hi> he ſpeaks like his great Maſter, <hi>with Authority and Power;</hi> and when a Gentleman doth one, he doth the other too. Evil Men will reverence and dread ſuch a one, but little regard all the Threats or Menaces of one as vicious themſelves.</p>
+            <p>Here our ſo much wanted Reformation muſt begin, and when it doth ſo, then it will go on: Then may we begin to hope well, when we ſee <hi>living Sermons, and living Laws;</hi> when the Lives of thoſe in Authority as much reprove and ſhame, as their Power doth fright, and puniſh <hi>the Lawleſs and Diſobedient,</hi> againſt whom they let them ſee, and feel too, that the Law was made, and not againſt a Righteous Man.</p>
+            <p>
+               <hi>Now to God the Father, God the Son, and God the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, Three Perſons and One God, be aſcribed Domi<g ref="char:EOLhyphen"/>nion, Power and Glory, for evermore.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93976:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
